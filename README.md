@@ -66,7 +66,7 @@ The ``scripts/`` folder contains the following scripts:
 Before using our scripts, make sure to have a working installation of [subword-nmt](https://github.com/rsennrich/subword-nmt) and [tensor2tensor](https://github.com/tensorflow/tensor2tensor). Next, download our scripts and run the script in the folder ``scripts``
 
 #### (Step 0) Data Structure
-For each dataset, it should be structured as: ``<data_dir>/<partition>/{version}.txt``
+For each dataset, it should be structured as: ``<data_dir>/<partition>/<version>.txt``
 
 where
 
